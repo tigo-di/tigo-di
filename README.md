@@ -2,13 +2,15 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Dias</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tigo-di&color=yellow" alt="Profile views" /> </p>
 
-- ✨ I’m currently working freelancer with PHP, Javascript, NodeJS and Google Ads.
+✨ I’m currently working freelancer with PHP, Javascript, NodeJS and Google Ads.
 
-- 🌱 I want to learn and share more about programming
+🌱 I want to learn and share more about programming
 
-- 🧑‍🎓 I'm student @ 🚀 [Rocketseat](https://rocketseat.com.br/) and [Mackenzie/ADS](https://mackenzie.br/)
+🧑‍🎓 I'm student @ 🚀 [Rocketseat](https://rocketseat.com.br/) and [Mackenzie/ADS](https://mackenzie.br/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+
+📫 Talk to me: tigodi@gmail.com
 
 
 <br><br>
