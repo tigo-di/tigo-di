@@ -1,32 +1,50 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Dias</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tigo-di&color=yellow" alt="Profile views" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago / tigo</h1>
+<h3 align="center">Yep, I like code and old games</h3>
 
-✨ I’m currently working freelancer with PHP, Javascript, NodeJS and Google Ads.
+<p align="left"><img src="https://komarev.com/ghpvc/?username=tigo-di&color=yellow" alt="Profile views" /></p>
 
-🌱 I want to learn and share more about programming
+<br>
 
-🧑‍🎓 I'm student @ 🚀 [Rocketseat](https://rocketseat.com.br/) and [Mackenzie/ADS](https://mackenzie.br/)
+✨&nbsp;&nbsp;I’m currently working freelancer with PHP, Javascript, NodeJS and Google Ads.
 
-💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+🌱&nbsp;&nbsp;I want to learn and share more about programming
 
-📫 Talk to me: tigodi@gmail.com
+🧑‍🎓&nbsp;&nbsp;I'm student @ 🚀 [Rocketseat](https://rocketseat.com.br/) and [Mackenzie/ADS](https://mackenzie.br/)
+
+💬&nbsp;&nbsp;Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+
+📫&nbsp;&nbsp;Talk to me: tigodi@gmail.com
 
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Languages n' Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+<img alt="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40">&nbsp;
+<img alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">&nbsp;
+<img alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40">&nbsp;
+<img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40">&nbsp;
+<img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">&nbsp;
+<img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40">&nbsp;
+<img alt="SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40">&nbsp;
+<img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40">&nbsp;
+<img alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40" height="40">&nbsp;
+<img alt="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40">&nbsp;
+<img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40">&nbsp;
+<img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40">&nbsp;
+<img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40">&nbsp;
+<img alt="Markdown" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="40" height="40">&nbsp;
 
+<br><br>
+
+## 😁💬 &nbsp;My links
+
+<p align="left">
+<a href="https://codepen.io/tigo-di" target="_blank"><font color="white"><img alt="codepen" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" width="40" height="40"></font></a>&nbsp;
+<a href="https://twitter.com/tigo" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter"/ width="40" height="28"></a>&nbsp;
+<a href="https://www.behance.net/tiagodb" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-plain.svg" alt="behance" width="40" height="40"></a>&nbsp;
+<a href="https://replit.com/@tigo-di" target="_blank"><img align="center" src="https://img.shields.io/badge/tigo-di-05122A?style=flat&logo=replit" alt="replit"/></a>
+</p>
 
 <br><br>
 
@@ -39,13 +57,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/tigo-di" target="_blank"><img align="center" src="https://img.shields.io/badge/tigo-di-05122A?style=flat&logo=codepen" alt="codepen"/></a>
-<a href="https://twitter.com/tigo" target="_blank"><img align="center" src="https://img.shields.io/badge/tigo-05122A?style=flat&logo=twitter" alt="twitter"/></a>
-<a href="https://www.behance.net/tiagodb" target="_blank"><img align="center" src="https://img.shields.io/badge/tigo-di-05122A?style=flat&logo=behance" alt="twitter"/></a>
-</p>
 
 
 <!--
