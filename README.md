@@ -15,6 +15,40 @@
 
 📫&nbsp;&nbsp;Talk to me: tigodi@gmail.com
 
+<br>
+
+## :books: Some Courses
+
+:small_blue_diamond: AWS Academy Cloud Foundations, AWS Academy
+(Janeiro de 2022) - Studying
+
+:small_blue_diamond: Ignite - Trilha Node.js, Rocketseat
+(Janeiro de 2022) - Studying
+
+:small_blue_diamond: Projetos ágeis com SCRUM, Digital Innovation One
+(Dezembro de 2021) - [Certificate](https://bit.ly/3yqIZVs)
+
+:small_blue_diamond: Developing Node.js Apps with Docker, Pluralsight
+(Novembro de 2021) - [Certificate](https://bit.ly/3dnoDTe)
+
+:small_blue_diamond: JavaScript Variables and Types, Plurasight
+(Abril de 2020) - [Certificate](https://bit.ly/31okXyp)
+
+:small_blue_diamond: JavaScript Objects, Prototypes, and Classes, Plurasight
+(Abril de 2020) - [Certificate](https://bit.ly/3lxMJzq)
+
+:small_blue_diamond: Responsive Web Design, University of London/Coursera
+(Setembro de 2016) - [Certificate](https://bit.ly/3lyYplf)
+
+:small_blue_diamond: Responsive Website Basics: Code with HTML, CSS, and JavaScript, University of London/Coursera
+(Agosto de 2016) - [Certificate](https://bit.ly/31pyQvU)
+
+:small_blue_diamond: Front-End Web UI Frameworks and Tools, Coursera/The Hong Kong University of Science and Technology
+(Agosto de 2016) - [Certificate](https://bit.ly/3lTy9CD)
+
+:small_blue_diamond: HTML, CSS and JavaScript, The Hong Kong University of Science and Technology/Coursera
+(Julho de 2016) - [Certificate](https://bit.ly/3rzGSxa)
+
 
 <br><br>
 
