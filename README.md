@@ -20,10 +20,10 @@
 ## :books: Some Courses
 
 :small_blue_diamond: AWS Academy Cloud Foundations, AWS Academy
-(Janeiro de 2022) - Studying
+(Janeiro de 2023) - Studying
 
-:small_blue_diamond: Ignite - Trilha Node.js, Rocketseat
-(Janeiro de 2022) - Studying
+:small_blue_diamond: Ignite - Trilhas Node.js, ReactJS e React Native, Rocketseat
+(Abril de 2023) - Studying
 
 :small_blue_diamond: Projetos ágeis com SCRUM, Digital Innovation One
 (Dezembro de 2021) - [Certificate](https://bit.ly/3yqIZVs)
